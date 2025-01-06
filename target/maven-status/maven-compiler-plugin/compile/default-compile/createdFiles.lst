@@ -1,0 +1,3 @@
+wordcount\WordCount.class
+wordcount\WordCount$IntSumReducer.class
+wordcount\WordCount$TokenizerMapper.class
